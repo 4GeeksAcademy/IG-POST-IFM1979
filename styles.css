@@ -1,0 +1,55 @@
+.post-header {
+    display: flex;
+    }    
+.text-header {
+    display: flex;
+    }
+.logo {
+    font-size: 50px;
+    margin-bottom: 10px;
+    }
+    h3 {
+    font-family: "Roboto Flex", sans-serif;    
+    margin: 0px;
+    }
+    h4 {
+    font-family: "Roboto Flex", sans-serif;    
+    margin: 0px;
+    }
+.by {
+    margin-top: 5px;
+    margin-left: 20px;
+    }
+.points {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 1100px;
+    }
+.post-icons {
+    display: flex;
+
+    }
+.heart {
+    font-size: 30px;
+    margin-top: 10px;
+    }
+.speak {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+   
+    }
+.send {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+    }
+.save {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 1100px;
+    }
+p { 
+    font-family: "Roboto Flex", sans-serif;
+}    
+
