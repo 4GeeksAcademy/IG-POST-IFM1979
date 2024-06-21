@@ -1,11 +1,30 @@
+body {
+    background-color: black;
+}
+.container {
+    position: relative;
+    top: 180px;
+    left: 35%;
+    width: 25%;
+    height: 50%;
+    margin-top: 50px;
+    background-color: white;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
 .post-header {
     display: flex;
+    position: relative;
     }    
 .text-header {
     display: flex;
     }
 .logo {
     font-size: 50px;
+    margin-top: 15px;
+    margin-left: 10px;
     margin-bottom: 10px;
     }
     h3 {
@@ -17,27 +36,29 @@
     margin: 0px;
     }
 .by {
-    margin-top: 5px;
+    margin-top: 18px;
     margin-left: 20px;
     }
 .points {
     font-size: 40px;
-    margin-top: 10px;
-    margin-left: 1100px;
+    margin-top: 18px;
+    position: absolute;
+    right: 0;
+    margin-right: 10px;
     }
 .post-icons {
     display: flex;
-
+    position: relative;
     }
 .heart {
     font-size: 30px;
     margin-top: 10px;
+    margin-left: 10px;
     }
 .speak {
     font-size: 30px;
     margin-top: 10px;
     margin-left: 15px;
-   
     }
 .send {
     font-size: 30px;
@@ -47,9 +68,17 @@
 .save {
     font-size: 30px;
     margin-top: 10px;
-    margin-left: 1100px;
+    position: absolute;
+    right:0;
+    margin-right: 10px;
     }
 p { 
     font-family: "Roboto Flex", sans-serif;
+    text-align: justify;
+    margin: 10px;
+    margin-top: 15px;
 }    
+
+
+
 
